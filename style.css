@@ -32,9 +32,6 @@ section{
     font-style: italic;
     padding: 2%;
 }
-#title{
-    font-weight: bolder;
-}
 #box-pic{
     padding: 2%;
     display: flex;
